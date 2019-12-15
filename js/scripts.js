@@ -1,3 +1,3 @@
-if (1 < 2) {
-	document.getElementById('box-1').style.display = 'none';
-}
+$(document).ready(function() {
+	console.log('jquery loaded');
+});
